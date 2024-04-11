@@ -1,2 +1,2 @@
 # PFE-SOFTWARE
-tk app
+tkinter app
