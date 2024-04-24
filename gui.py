@@ -5,7 +5,6 @@ from tkinter import ttk
 from PIL import Image, ImageTk
 import cv2
 
-#followed by __INIT__.PY CODE
 
 def exit_fullscreen(root):
     root.attributes('-fullscreen', False)
